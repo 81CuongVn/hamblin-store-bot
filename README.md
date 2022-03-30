@@ -4,8 +4,8 @@ Looking for an integrated bot for Jake Hamblin's Store Template V2? Well look no
 `This bot will rely on the same database as Jake Hamblin's Store Template V2.`
 
 # Credits
-[@Jekeltor](https://jakehamblin.com) - *Creating [Store Template V2](https://jakehamblin.com/products/store-template-v2)*
-[@Hyperz](https://hyperz.net) - *Physical Programming of the application.*
+- [@Jekeltor](https://jakehamblin.com) - *Creating [Store Template V2](https://jakehamblin.com/products/store-template-v2)*
+- [@Hyperz](https://hyperz.net) - *Physical Programming of the application.*
 
 # Images
 ![image](https://cdn.hyperz.net/main/7i5unc.png)
