@@ -1,0 +1,2 @@
+# hamblin-store-bot
+Looking for an integrated bot for Jake Hamblin's Store Template V2? Well look no further! With this DiscordJS v13 Discord bot you can interact directly with the store template straight from your Discord server! With an integrated license system that will work with Jake's Store Template V2, account viewing, product searching, announcement checking, and overall site settings sync-up with the same color and description as the site, what more could you ask for! 
